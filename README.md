@@ -5,7 +5,7 @@ Blog desarrollado con nextjs y stripe
 
 ## Captura de pantalla
 
-![Blog](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Blog](https://github.com/kioshiokamoto/nextjs-strapi-blog/blob/main/preview/Preview.png?raw=true)
 
   
 ## Correr localmente
